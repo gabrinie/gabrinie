@@ -12,5 +12,5 @@
 
 ### 📊 GitHub Stats:
 
-![Top Langs](https://gabrinie-readme-stats.vercel.app/api/top-langs/?username=gabrinie&size_weight=0&count_weight=0&layout=compact&theme=panda)
+![Top Langs](https://gabrinie-readme-stats.vercel.app/api/top-langs/?username=gabrinie&size_weight=1&count_weight=1&layout=compact&theme=panda)
 

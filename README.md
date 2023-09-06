@@ -14,4 +14,4 @@
 
 <!--![Top Langs](https://gabrinie-readme-stats.vercel.app/api/top-langs/?username=gabrinie&count_weight=0&layout=compact&theme=panda)-->
 
-<img src="https:///gabrinie-readme-stats.vercel.app/api/top-langs?username=gabrinie&layout=compact&theme=panda" />
+<img src="https://gabrinie-readme-stats.vercel.app/api/top-langs?username=gabrinie&layout=compact&theme=panda" />

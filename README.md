@@ -1,6 +1,6 @@
  ## 💫 About Me:
  👩🏻‍💻 Front-End Developer
- 📖 Graduating in Systems Analisys and Development <br>
+ <br>📖 Graduating in Systems Analisys and Development <br>
  💡 Currently learning NextJS <br>
  🐈 Big fan of cats in hats <br>
 

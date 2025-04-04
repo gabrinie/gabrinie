@@ -1,7 +1,7 @@
  ## 💫 About Me:
- 👩🏻‍💻 Front-End Developer
+ 👩🏻‍💻 Service Now and Front-End Developer
  <br>📖 Graduating in Systems Analisys and Development <br>
- 💡 Currently learning NextJS <br>
+ 💡 Currently learning: NextJS <br>
  🐈 Big fan of cats in hats <br>
 
 ### 💻 Tech Stack:
